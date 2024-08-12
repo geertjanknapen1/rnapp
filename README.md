@@ -10,4 +10,4 @@ Once everything is built, you should be able to run `npx expo start --tunnel`.
 
 Once that is ready, press `w` to see the app in your browser, or scan the QR-code it generates with your phone.
 If you use your phone, it will ask you to install the Expo Go app, so you can run the app on your own device.
-(Works on Andriod and IOS devices).
+(Works on Android and IOS devices).
