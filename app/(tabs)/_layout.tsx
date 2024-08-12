@@ -29,7 +29,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Home',
+          title: 'Plagron Plantalyzer',
           tabBarIcon: ({ color }) => <TabBarIcon name="home" color={color} />,
           headerRight: () => (
             <Link href="/profile" asChild>
@@ -50,7 +50,7 @@ export default function TabLayout() {
       <Tabs.Screen
         name="scanner"
         options={{
-          title: 'Scanner',
+          title: 'Scan my plant',
           tabBarIcon: ({ color }) => <TabBarIcon name="camera" color={color} />,
         }}
       />
